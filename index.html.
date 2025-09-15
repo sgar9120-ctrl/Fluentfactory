@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speak English Like a Leader</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      text-align: center;
+    }
+    header {
+      background: #222;
+      color: white;
+      padding: 40px 20px;
+    }
+    h1 { font-size: 28px; }
+    p { font-size: 18px; }
+    .content {
+      padding: 40px 20px;
+    }
+    img {
+      max-width: 300px;
+      border-radius: 12px;
+      margin: 20px 0;
+    }
+    .btn {
+      display: inline-block;
+      padding: 14px 28px;
+      background: #25D366; /* WhatsApp green */
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+    .btn:hover {
+      background: #1ebe5b;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      background: #eee;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>Speak English Like a Leader. Not a Learner.</h1>
+    <p>Join our exclusive WhatsApp community for free tips & updates!</p>
+  </header>
+
+  <!-- Main Content -->
+  <div class="content">
+    <h2>Meet Your Coach: Sania</h2>
+    <img src="sania.jpg" alt="Coach Sania">
+    <p>
+      I’m Sania, founder of Fluent Factory.  
+      For over two years, I’ve helped professionals, educators, and entrepreneurs 
+      build fluency, confidence, and influence with English.  
+    </p>
+
+    <!-- WhatsApp Button -->
+    <a class="btn" href="https://chat.whatsapp.com/Hcp3m2Oaxzz7gARzLh5aDC?mode=ems_copy_t" target="_blank">
+      Join WhatsApp Group 🚀
+    </a>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Fluent Factory | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
